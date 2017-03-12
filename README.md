@@ -1,0 +1,2 @@
+# Ps2Sketch_keymap
+修改Photoshop快捷键和Sketch一致
